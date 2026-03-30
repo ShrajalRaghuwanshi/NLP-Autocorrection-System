@@ -35,7 +35,7 @@ Python
 NLTK
 SymSpell (symspellpy)
 Gradio
-##▶️ Usage
+## ▶️ Usage
 Run the main script or notebook
 Enter a sentence with spelling mistakes
 Get corrected output instantly
